@@ -1,0 +1,82 @@
+The General Rule
+<tagName> Some Content </tagName>
+
+______________________________________________________________________________________________________________________________________
+
+Format :
+<!DOCTYPE html>
+<html>
+    <head>
+    <!--Meta Data-->
+    <title></title>
+    </head>
+
+    <body>
+        <!--Content goes here-->
+    </body>
+</html>
+______________________________________________________________________________________________________________________________________
+
+General Tags <tag>~~~~~</tag> :     {All except mentioned are block level elements}
+p                                               -                    paragraph
+title                                           -                    Title of the web Page
+html                                            -                    Root Tag
+head                                            -                    All functionalities that don't appear in body tag
+body                                            -                    Contents that appear in web page
+h1 - h6                                         -                    Heading tags of the page
+strong or b [Inline]                            -                    Bold  
+em or i [Inline]                                -                    Italisize
+ol                                              -                    Ordered List
+ul                                              -                    Unordered List
+li                                              -                    List Entry tag
+tr                                              -                    Table Row
+td                                              -                    Table Data
+thead                                           -                    Heading Block
+tbody                                           -                    Body Block
+th                                              -                    Table Header
+_______________________________________________________________________________________________________________________________________
+
+Attributes :  <tag name1 = "value1" name2 = "value2"></tag>
+->  Adds additional Information to html elements.
+->  takes a key(property), value(corresponding value) pair.
+
+image                                           -                   <img src = "dog"> {closing is optional} and only to write.
+anchor                                          -                   <a href = "www.google.com">HyperLink</a>
+table                                           -                   <table border="">******</table>
+_______________________________________________________________________________________________________________________________________
+
+Forms in HTML : Useful for taking input in HTML (Interactive Control)
+
+form  tag : Shell or Container for all different type of inputs
+  * represents a document section containing interactive controls for submitting information.
+  * It Sends Data from the form to a server.
+  
+  
+  <form action="where to sent the data" method="post"> 
+    !-- All of the inputs will go here -->
+  </form>
+  
+  method = "get"  -> Retrieving Data
+  method = "post" -> Posting the data to server
+                             *******_________********
+input  tag : Block where different inputs will be given by the user. 
+
+  <input type="type"> [type = {text, password, email, date, color, file, checkbox};]
+  Placeholder is an attribute used to fill the default input.
+                             *******_________
+                             
+                             
+Label tag : It represents Caption for an item in userinterface.
+
+Syntax1 : <label> username: <input type="password" placeholder="username"></input>
+Syntax2 : <label for="username">Username:</label>
+          <input id="username" type="password" placeholder="username"></input>
+-> In input tag for radio button name tag if there are multiple attributes and assign value tag to name tag for correct data transfer.
+-> for select tag we no need to mention value (for simple texts) because the value of input will be taken automatically by browser,
+    but for any other charecters it should be sent in select tag.
+ textarea tag : for input with many words(lines).
+
+Validations: Checking for valid inputs. 
+    Ex : required attribute inside a input tag
+_______________________________________________________________________________________________________________________________________
+Div{Block level}, span{Inline} : Generic Container used for Grouping
