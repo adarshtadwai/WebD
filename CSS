@@ -1,0 +1,30 @@
+General Rule :
+selector{
+  property1 : value1;
+  property2 : value2;
+}
+
+Ways to Write :
+                Inline :
+          <li style="color:white">Playing Cricket</li>
+                Style Tag:
+          <style>
+            h1{
+              color : blue;
+            }
+          </style>
+     
+Colors : # + 6 digit Hexadecimal Number, rgb(a,b,c) {0 <= a,b,c < 256}
+
+Some Properties and corresponding Values:
+1. background : red
+2. background : url(url of image)
+3. background-repeat : no-repeat;
+4. background-size : cover 
+5. border : <width(in px), style, color>
+  style = {solid, dashed}
+
+-> Give id's to attributes in order to diffrenciate them.
+  To use id write #<name of id>{attributes}
+-> Instead of id apply class for styling multiple elements.
+  To use class write .<name of class>{attributes}
