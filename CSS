@@ -28,3 +28,39 @@ Some Properties and corresponding Values:
   To use id write #<name of id>{attributes}
 -> Instead of id apply class for styling multiple elements.
   To use class write .<name of class>{attributes}
+-> checked attribute inside input saves the checkbottons in the page.
+
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
+Some More Selectors :
+
+*{}                      -            Selects the entire web page         [Star selector]
+li a(.hello){}           -            every anchor tag inside li tag.     [Descendent selector]
+li + a {}                -            style all the siblings after tag    [Adjacent selector]
+a[href = ""]             -            style all attributes inside a tag.  [Attribute selector]
+ul:nth-of-type(2)        -            style all 2nd in ul tag.            [nth of selector]
+
+Fonts:
+p {
+font-family: Arial;
+}
+h1{
+font-size: 200px;
+}
+p{
+font-weight: x*100 xE(1,8)
+}
+p{
+line-height: 2;
+}
+p{
+text-align: centre;
+}
+p{
+text-decoration: underline;
+}
+See Google fonts.
+                            *******________********
+                            
+                            Box Model
+                            
