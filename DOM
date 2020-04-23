@@ -1,0 +1,18 @@
+Stands for Document Object Model
+Interface between JavaScript and Html,CSS.
+document is the base object for all HTML.
+
+Methods -> Selection
+
+1. document.getElementById() :
+2. document.getElementsByClassName() :
+3. document.getElementsByTagName() :
+4. document.querySelector():
+5. document.querySelectorAll():
+To see JavaScript Obj type [Console.dir(name_)]
+
+Methods -> Manipulation
+Style
+color, border,fontSize, background, marginTop
+
+Concept of Seperation of functions.
