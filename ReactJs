@@ -1,0 +1,13 @@
+React is a JavaScript library. It is not a framework. It is sophisticated in creating user Interfaces. 
+Difference between Framework and Library :- 
+The key difference between a library and a framework is "Inversion of Control".
+we can think of a library as a certain function of an application, a framework as the skeleton of the application, 
+and an API is connector to put those together. A typical development process normally starts with a framework, 
+and fill out functions defined in libraries through API.
+React is declarative : Tell React what we want to do and it will take care of how we want to do.
+
+Why Popular?
+1. Reusable, composable and stateful components.
+2. Updates
+3. Virtual Representation of views in memory (Tree Reconciliation).
+
