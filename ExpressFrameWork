@@ -1,0 +1,16 @@
+app.listen(3000, function(){
+    console.log("starting server");
+});     //Listen To Server;
+
+app.get("/dog", function(req, res){
+    console.log("Opening /dog!!");
+    res.send("Boww!!");
+});
+
+app.get("*", function (req, res) {
+    res.send("Open Properly");
+});     //Default
+
+Route Parameters(Path Variables):
+':' - Used in express to define path variable
+ 
