@@ -1,0 +1,16 @@
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\bin\Debug\AcmeCustomerManger.Test.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\bin\Debug\AcmeCustomerManger.Test.pdb
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\bin\Debug\AcmeCustomerManager.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\bin\Debug\AcmeCustomerManager.pdb
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\obj\Debug\AcmeCustomerManger.Test.csprojAssemblyReference.cache
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\obj\Debug\AcmeCustomerManger.Test.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\obj\Debug\AcmeCustomerManger.Test.csproj.CopyComplete
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\obj\Debug\AcmeCustomerManger.Test.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Test\AcmeCustomerManger.Test\obj\Debug\AcmeCustomerManger.Test.pdb

@@ -1,0 +1,13 @@
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\StudentPerformance\bin\Debug\netcoreapp3.1\StudentPerformance.exe
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\StudentPerformance\bin\Debug\netcoreapp3.1\StudentPerformance.deps.json
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\StudentPerformance\bin\Debug\netcoreapp3.1\StudentPerformance.runtimeconfig.json
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\StudentPerformance\bin\Debug\netcoreapp3.1\StudentPerformance.runtimeconfig.dev.json
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\StudentPerformance\bin\Debug\netcoreapp3.1\StudentPerformance.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\StudentPerformance\bin\Debug\netcoreapp3.1\StudentPerformance.pdb
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\StudentPerformance\obj\Debug\netcoreapp3.1\StudentPerformance.csprojAssemblyReference.cache
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\StudentPerformance\obj\Debug\netcoreapp3.1\StudentPerformance.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\StudentPerformance\obj\Debug\netcoreapp3.1\StudentPerformance.AssemblyInfoInputs.cache
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\StudentPerformance\obj\Debug\netcoreapp3.1\StudentPerformance.AssemblyInfo.cs
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\StudentPerformance\obj\Debug\netcoreapp3.1\StudentPerformance.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\StudentPerformance\obj\Debug\netcoreapp3.1\StudentPerformance.pdb
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\StudentPerformance\obj\Debug\netcoreapp3.1\StudentPerformance.genruntimeconfig.cache

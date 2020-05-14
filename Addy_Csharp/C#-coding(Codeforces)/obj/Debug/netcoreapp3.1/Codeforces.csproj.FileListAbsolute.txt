@@ -1,0 +1,13 @@
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Codeforces\bin\Debug\netcoreapp3.1\Codeforces.exe
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Codeforces\bin\Debug\netcoreapp3.1\Codeforces.deps.json
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Codeforces\bin\Debug\netcoreapp3.1\Codeforces.runtimeconfig.json
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Codeforces\bin\Debug\netcoreapp3.1\Codeforces.runtimeconfig.dev.json
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Codeforces\bin\Debug\netcoreapp3.1\Codeforces.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Codeforces\bin\Debug\netcoreapp3.1\Codeforces.pdb
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.csprojAssemblyReference.cache
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.AssemblyInfoInputs.cache
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.AssemblyInfo.cs
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.pdb
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\Codeforces\obj\Debug\netcoreapp3.1\Codeforces.genruntimeconfig.cache

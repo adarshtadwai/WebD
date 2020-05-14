@@ -1,0 +1,6 @@
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\AcmeCustomerManager\bin\Debug\AcmeCustomerManager.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\AcmeCustomerManager\bin\Debug\AcmeCustomerManager.pdb
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\AcmeCustomerManager\obj\Debug\AcmeCustomerManager.csprojAssemblyReference.cache
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\AcmeCustomerManager\obj\Debug\AcmeCustomerManager.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\AcmeCustomerManager\obj\Debug\AcmeCustomerManager.dll
+C:\Users\Adarsh\Documents\Coding\Addy_Csharp\AcmeCustomerManager\obj\Debug\AcmeCustomerManager.pdb
